@@ -52,4 +52,4 @@ Neural network analysis where we predict growth temperature with the scope throu
 ## Other files
 **utils\_objet.py** - utils for building and handling networks. Scope is in there too.
 
-**utils_\general.py** - miscellaneous functions
+**utils\_general.py** - miscellaneous functions
