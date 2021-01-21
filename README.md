@@ -1,4 +1,3 @@
-# FunctionalPrediction5000species
 Code for paper Weber Zendrera, Sokolovska, Soula. Functional prediction of environmental variablesusing metabolic networks. Scientific Reports (2021)
 
 ## How to run the code
@@ -49,3 +48,8 @@ Neural network analysis where we predict growth temperature with the scope throu
 - oxySimpl: Simplification of merge\_oxygen variable into 3 classes : "aerobe", "facultative", "anaerobe"
 - life\_domain: Archaea or Bacteria
 - clades: From NCBI Taxonomy database, we chose clades with max 800 of our species as leaves, else we separated the clade into its branches
+
+## Other files
+**utils\_objet.py** - utils for building and handling networks. Scope is in there too.
+
+**utils_\general.py** - miscellaneous functions
